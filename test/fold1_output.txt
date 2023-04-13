@@ -1,0 +1,1587 @@
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_102.jpg
+pred_level_id: [2 2 2 2 0 0 0 0 0 0]
+pred_level_without_zeroes: [2, 2, 2, 2]
+ground truth: 1
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1032.jpg
+pred_level_id: [0 4 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1034.jpg
+pred_level_id: [0 0 3 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1035.jpg
+pred_level_id: [0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 4
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1040.jpg
+pred_level_id: [3 3 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 3]
+ground truth: 5
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_105.jpg
+pred_level_id: [2 0 2 2 3 0 0]
+pred_level_without_zeroes: [2, 2, 2, 3]
+ground truth: 2
+pred after mean: 2.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1056.jpg
+pred_level_id: [0 0 0 0 0 4 3 0]
+pred_level_without_zeroes: [4, 3]
+ground truth: 6
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1057.jpg
+pred_level_id: [0 0 0 3 4]
+pred_level_without_zeroes: [3, 4]
+ground truth: 4
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1058.jpg
+pred_level_id: [0 0 3 0 0 3 3 3]
+pred_level_without_zeroes: [3, 3, 3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_106.jpg
+pred_level_id: [5 0 3]
+pred_level_without_zeroes: [5, 3]
+ground truth: 7
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1070.jpg
+pred_level_id: [0 5 0 4 6 5 6 0 0 5 6 4 6]
+pred_level_without_zeroes: [5, 4, 6, 5, 6, 5, 6, 4, 6]
+ground truth: 7
+pred after mean: 5.222222222222222
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1072.jpg
+pred_level_id: [5 2 3 3 3 4 0 0 6 0 0 0 0]
+pred_level_without_zeroes: [5, 2, 3, 3, 3, 4, 6]
+ground truth: 2
+pred after mean: 3.7142857142857144
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1077.jpg
+pred_level_id: [0 4]
+pred_level_without_zeroes: [4]
+ground truth: 8
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1086.jpg
+pred_level_id: [0 0 1 1 0]
+pred_level_without_zeroes: [1, 1]
+ground truth: 4
+pred after mean: 1.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1098.jpg
+pred_level_id: [0 3 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_11.jpg
+pred_level_id: [0 0 3]
+pred_level_without_zeroes: [3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1109.jpg
+pred_level_id: [3 3 0 5 2 0 4 0 0 0]
+pred_level_without_zeroes: [3, 3, 5, 2, 4]
+ground truth: 5
+pred after mean: 3.4
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1113.jpg
+pred_level_id: [6 0 0 0 3]
+pred_level_without_zeroes: [6, 3]
+ground truth: 4
+pred after mean: 4.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1121.jpg
+pred_level_id: [0 0 0 3 3 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1122.jpg
+pred_level_id: [0 6 5 5 0]
+pred_level_without_zeroes: [6, 5, 5]
+ground truth: 6
+pred after mean: 5.333333333333333
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1124.jpg
+pred_level_id: [3 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 6
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_113.jpg
+pred_level_id: [0 3 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1138.jpg
+pred_level_id: [3 0 0 0 0 3]
+pred_level_without_zeroes: [3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1139.jpg
+pred_level_id: [3 0 5 2 0 0]
+pred_level_without_zeroes: [3, 5, 2]
+ground truth: 1
+pred after mean: 3.3333333333333335
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1145.jpg
+pred_level_id: [0 0 4 0]
+pred_level_without_zeroes: [4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1150.jpg
+pred_level_id: [4 0 0]
+pred_level_without_zeroes: [4]
+ground truth: 10
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1153.jpg
+pred_level_id: [0 0]
+pred_level_without_zeroes: [0]
+ground truth: 6
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1163.jpg
+pred_level_id: [0 4 0 0 5 0 2 6 0]
+pred_level_without_zeroes: [4, 5, 2, 6]
+ground truth: 5
+pred after mean: 4.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1172.jpg
+pred_level_id: [0 3 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1173.jpg
+pred_level_id: [0 2 0 0]
+pred_level_without_zeroes: [2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1174.jpg
+pred_level_id: [0 2 0 0 0 0 0]
+pred_level_without_zeroes: [2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1199.jpg
+pred_level_id: [0 3 3 0 0 3 3 3]
+pred_level_without_zeroes: [3, 3, 3, 3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_120.jpg
+pred_level_id: [5 5 5 0 0]
+pred_level_without_zeroes: [5, 5, 5]
+ground truth: 6
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1201.jpg
+pred_level_id: [0 3 6]
+pred_level_without_zeroes: [3, 6]
+ground truth: 7
+pred after mean: 4.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1210.jpg
+pred_level_id: [3 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 5
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1216.jpg
+pred_level_id: [0 0 0 2 1 0 0 0 2 2 0]
+pred_level_without_zeroes: [2, 1, 2, 2]
+ground truth: 2
+pred after mean: 1.75
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1217.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 8
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1220.jpg
+pred_level_id: [4 3 0]
+pred_level_without_zeroes: [4, 3]
+ground truth: 5
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1221.jpg
+pred_level_id: [0 4]
+pred_level_without_zeroes: [4]
+ground truth: 5
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1222.jpg
+pred_level_id: [0 3 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1230.jpg
+pred_level_id: [0 0 3]
+pred_level_without_zeroes: [3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1234.jpg
+pred_level_id: [0 3 4 2]
+pred_level_without_zeroes: [3, 4, 2]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_124.jpg
+pred_level_id: [0 0 0 3 3 2 2 0 2 0 0]
+pred_level_without_zeroes: [3, 3, 2, 2, 2]
+ground truth: 3
+pred after mean: 2.4
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1251.jpg
+pred_level_id: [0 2]
+pred_level_without_zeroes: [2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1259.jpg
+pred_level_id: [0 4 6 0 6 0]
+pred_level_without_zeroes: [4, 6, 6]
+ground truth: 7
+pred after mean: 5.333333333333333
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1263.jpg
+pred_level_id: [0 5 5 0 0]
+pred_level_without_zeroes: [5, 5]
+ground truth: 3
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_127.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 1
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1271.jpg
+pred_level_id: [0 5 0]
+pred_level_without_zeroes: [5]
+ground truth: 8
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1273.jpg
+pred_level_id: [3 3 0 5 2]
+pred_level_without_zeroes: [3, 3, 5, 2]
+ground truth: 5
+pred after mean: 3.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_128.jpg
+pred_level_id: [5 5 4 0]
+pred_level_without_zeroes: [5, 5, 4]
+ground truth: 6
+pred after mean: 4.666666666666667
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1281.jpg
+pred_level_id: [0 6]
+pred_level_without_zeroes: [6]
+ground truth: 10
+pred after mean: 6.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1285.jpg
+pred_level_id: [0 2 3 4]
+pred_level_without_zeroes: [2, 3, 4]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1288.jpg
+pred_level_id: [2 0 0 2 0 0]
+pred_level_without_zeroes: [2, 2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_130.jpg
+pred_level_id: [4 5 0 0 0 0 0]
+pred_level_without_zeroes: [4, 5]
+ground truth: 6
+pred after mean: 4.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1302.jpg
+pred_level_id: [0 0 4]
+pred_level_without_zeroes: [4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1303.jpg
+pred_level_id: [3 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_132.jpg
+pred_level_id: [0 0 3 0 0 6 6 6]
+pred_level_without_zeroes: [3, 6, 6, 6]
+ground truth: 7
+pred after mean: 5.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1326.jpg
+pred_level_id: [0 2 0 2 2 0 0 0]
+pred_level_without_zeroes: [2, 2, 2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1327.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 2
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1354.jpg
+pred_level_id: [5 0 5 5]
+pred_level_without_zeroes: [5, 5, 5]
+ground truth: 6
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1374.jpg
+pred_level_id: [0 4 0 4 2 3 0]
+pred_level_without_zeroes: [4, 4, 2, 3]
+ground truth: 6
+pred after mean: 3.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1379.jpg
+pred_level_id: [0 3 4]
+pred_level_without_zeroes: [3, 4]
+ground truth: 3
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_139.jpg
+pred_level_id: [0]
+pred_level_without_zeroes: [0]
+ground truth: 7
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1390.jpg
+pred_level_id: [0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 5
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1396.jpg
+pred_level_id: [0 3 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1398.jpg
+pred_level_id: [0 2 3 2 1 2 0 0]
+pred_level_without_zeroes: [2, 3, 2, 1, 2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1399.jpg
+pred_level_id: [4 0 0 0 3 0]
+pred_level_without_zeroes: [4, 3]
+ground truth: 4
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1406.jpg
+pred_level_id: [3 3 0 3]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1410.jpg
+pred_level_id: [0 0 0 2 0 0 0]
+pred_level_without_zeroes: [2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1417.jpg
+pred_level_id: [0 7 0 8]
+pred_level_without_zeroes: [7, 8]
+ground truth: 8
+pred after mean: 7.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_142.jpg
+pred_level_id: [0 0]
+pred_level_without_zeroes: [0]
+ground truth: 2
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1436.jpg
+pred_level_id: [0 0 5 6 4 2 0 6 0 0]
+pred_level_without_zeroes: [5, 6, 4, 2, 6]
+ground truth: 4
+pred after mean: 4.6
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_145.jpg
+pred_level_id: [0 5 0 0 7 5 0 0 0 6 0]
+pred_level_without_zeroes: [5, 7, 5, 6]
+ground truth: 8
+pred after mean: 5.75
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1454.jpg
+pred_level_id: [0 0 3 0 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1458.jpg
+pred_level_id: [0 0 3 0]
+pred_level_without_zeroes: [3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1467.jpg
+pred_level_id: [4 0 0 0 2 0]
+pred_level_without_zeroes: [4, 2]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1481.jpg
+pred_level_id: [0 0 4]
+pred_level_without_zeroes: [4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_149.jpg
+pred_level_id: [0 0 0 0 0 4 0 0]
+pred_level_without_zeroes: [4]
+ground truth: 6
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_1491.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 5
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_158.jpg
+pred_level_id: [4 0 5 5 0]
+pred_level_without_zeroes: [4, 5, 5]
+ground truth: 5
+pred after mean: 4.666666666666667
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_168.jpg
+pred_level_id: [5 4 0 0 0 0 0 0]
+pred_level_without_zeroes: [5, 4]
+ground truth: 6
+pred after mean: 4.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_170.jpg
+pred_level_id: [0 1 2 4 0]
+pred_level_without_zeroes: [1, 2, 4]
+ground truth: 3
+pred after mean: 2.3333333333333335
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_177.jpg
+pred_level_id: [0 4 1 0 2]
+pred_level_without_zeroes: [4, 1, 2]
+ground truth: 4
+pred after mean: 2.3333333333333335
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_180.jpg
+pred_level_id: [3 3 0 0 3]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_19.jpg
+pred_level_id: [4 0 4 0 4]
+pred_level_without_zeroes: [4, 4, 4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_191.jpg
+pred_level_id: [0 0 2 0]
+pred_level_without_zeroes: [2]
+ground truth: 5
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_196.jpg
+pred_level_id: [0 3 3 0 3 3]
+pred_level_without_zeroes: [3, 3, 3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_21.jpg
+pred_level_id: [7 0 6]
+pred_level_without_zeroes: [7, 6]
+ground truth: 6
+pred after mean: 6.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_219.jpg
+pred_level_id: [0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 4
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_222.jpg
+pred_level_id: [0 2 0 0 2]
+pred_level_without_zeroes: [2, 2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_231.jpg
+pred_level_id: [2 0 2 3 0 2 1]
+pred_level_without_zeroes: [2, 2, 3, 2, 1]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_232.jpg
+pred_level_id: [4 0 3 0 0]
+pred_level_without_zeroes: [4, 3]
+ground truth: 4
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_233.jpg
+pred_level_id: [0 4 5 0 0 4 6]
+pred_level_without_zeroes: [4, 5, 4, 6]
+ground truth: 5
+pred after mean: 4.75
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_24.jpg
+pred_level_id: [4 3 0 0 0]
+pred_level_without_zeroes: [4, 3]
+ground truth: 4
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_25.jpg
+pred_level_id: [0 6 6 6]
+pred_level_without_zeroes: [6, 6, 6]
+ground truth: 7
+pred after mean: 6.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_252.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 1
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_255.jpg
+pred_level_id: [2 0 2 0 0 0 0]
+pred_level_without_zeroes: [2, 2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_256.jpg
+pred_level_id: [0 2 0]
+pred_level_without_zeroes: [2]
+ground truth: 5
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_263.jpg
+pred_level_id: [0 7 3 0 0]
+pred_level_without_zeroes: [7, 3]
+ground truth: 3
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_277.jpg
+pred_level_id: [4 0]
+pred_level_without_zeroes: [4]
+ground truth: 3
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_278.jpg
+pred_level_id: [0 2 0 4 0]
+pred_level_without_zeroes: [2, 4]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_281.jpg
+pred_level_id: [2 3 3 0 0 0 0 0]
+pred_level_without_zeroes: [2, 3, 3]
+ground truth: 5
+pred after mean: 2.6666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_286.jpg
+pred_level_id: [0 5]
+pred_level_without_zeroes: [5]
+ground truth: 4
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_302.jpg
+pred_level_id: [5 0 3 4 2 0 0]
+pred_level_without_zeroes: [5, 3, 4, 2]
+ground truth: 6
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_303.jpg
+pred_level_id: [0 0 0 0 3 3 0]
+pred_level_without_zeroes: [3, 3]
+ground truth: 6
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_308.jpg
+pred_level_id: [0 5 0 0 5 6 0]
+pred_level_without_zeroes: [5, 5, 6]
+ground truth: 8
+pred after mean: 5.333333333333333
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_310.jpg
+pred_level_id: [0 0 3 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_311.jpg
+pred_level_id: [0 6]
+pred_level_without_zeroes: [6]
+ground truth: 7
+pred after mean: 6.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_312.jpg
+pred_level_id: [3 2 3 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 2, 3]
+ground truth: 2
+pred after mean: 2.6666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_316.jpg
+pred_level_id: [0 5 5 0]
+pred_level_without_zeroes: [5, 5]
+ground truth: 6
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_322.jpg
+pred_level_id: [0 3]
+pred_level_without_zeroes: [3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_325.jpg
+pred_level_id: [2 2 0 0 0 0 0]
+pred_level_without_zeroes: [2, 2]
+ground truth: 1
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_364.jpg
+pred_level_id: [0 6 3]
+pred_level_without_zeroes: [6, 3]
+ground truth: 7
+pred after mean: 4.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_365.jpg
+pred_level_id: [3 3 3 0 0]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_369.jpg
+pred_level_id: [2 3 3 0 6 0]
+pred_level_without_zeroes: [2, 3, 3, 6]
+ground truth: 3
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_372.jpg
+pred_level_id: [3 2 0 0 6]
+pred_level_without_zeroes: [3, 2, 6]
+ground truth: 3
+pred after mean: 3.6666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_374.jpg
+pred_level_id: [0 0 4 5 0 3 0]
+pred_level_without_zeroes: [4, 5, 3]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_379.jpg
+pred_level_id: [4 0 0 0 0 4 4 5 0]
+pred_level_without_zeroes: [4, 4, 4, 5]
+ground truth: 5
+pred after mean: 4.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_384.jpg
+pred_level_id: [3 0 2 3]
+pred_level_without_zeroes: [3, 2, 3]
+ground truth: 2
+pred after mean: 2.6666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_387.jpg
+pred_level_id: [5 2 4 0 0 6 0]
+pred_level_without_zeroes: [5, 2, 4, 6]
+ground truth: 5
+pred after mean: 4.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_40.jpg
+pred_level_id: [0 0 0 0 0 4 0 4]
+pred_level_without_zeroes: [4, 4]
+ground truth: 2
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_401.jpg
+pred_level_id: [0 2 4 0 2 0 3 5 0]
+pred_level_without_zeroes: [2, 4, 2, 3, 5]
+ground truth: 4
+pred after mean: 3.2
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_404.jpg
+pred_level_id: [0 3]
+pred_level_without_zeroes: [3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_407.jpg
+pred_level_id: [3 0 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_423.jpg
+pred_level_id: [ 4  0  3  2 10]
+pred_level_without_zeroes: [4, 3, 2, 10]
+ground truth: 4
+pred after mean: 4.75
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_424.jpg
+pred_level_id: [0 6 0]
+pred_level_without_zeroes: [6]
+ground truth: 5
+pred after mean: 6.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_457.jpg
+pred_level_id: [0 2]
+pred_level_without_zeroes: [2]
+ground truth: 4
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_463.jpg
+pred_level_id: [0 0 2 0 0 0 0 0]
+pred_level_without_zeroes: [2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_474.jpg
+pred_level_id: [0 4 3]
+pred_level_without_zeroes: [4, 3]
+ground truth: 4
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_49.jpg
+pred_level_id: [2 3 3 0 6]
+pred_level_without_zeroes: [2, 3, 3, 6]
+ground truth: 3
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_493.jpg
+pred_level_id: [3 0 3 3 0 0 3 4 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 3, 3, 3, 4]
+ground truth: 4
+pred after mean: 3.2
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_499.jpg
+pred_level_id: [0 4 3]
+pred_level_without_zeroes: [4, 3]
+ground truth: 5
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_500.jpg
+pred_level_id: [0 9]
+pred_level_without_zeroes: [9]
+ground truth: 6
+pred after mean: 9.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_51.jpg
+pred_level_id: [3 0 3 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_510.jpg
+pred_level_id: [0 4 3 0 0 2]
+pred_level_without_zeroes: [4, 3, 2]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_511.jpg
+pred_level_id: [0 0 3 0 3]
+pred_level_without_zeroes: [3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_526.jpg
+pred_level_id: [0 0 3]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_530.jpg
+pred_level_id: [0 2 0 0 3 0 0 0 0 0]
+pred_level_without_zeroes: [2, 3]
+ground truth: 3
+pred after mean: 2.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_531.jpg
+pred_level_id: [0 4 5 4 4 5 5 0 4]
+pred_level_without_zeroes: [4, 5, 4, 4, 5, 5, 4]
+ground truth: 6
+pred after mean: 4.428571428571429
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_539.jpg
+pred_level_id: [3 0]
+pred_level_without_zeroes: [3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_55.jpg
+pred_level_id: [2 0]
+pred_level_without_zeroes: [2]
+ground truth: 1
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_553.jpg
+pred_level_id: [0 0 0 3 0 0 3 5 0 0 0 0 2 3 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 2]
+pred_level_without_zeroes: [3, 3, 5, 2, 3, 3, 2]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_558.jpg
+pred_level_id: [0 3 3 0 3 3 0]
+pred_level_without_zeroes: [3, 3, 3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_56.jpg
+pred_level_id: [0 5 0 5]
+pred_level_without_zeroes: [5, 5]
+ground truth: 5
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_567.jpg
+pred_level_id: [4 0 3]
+pred_level_without_zeroes: [4, 3]
+ground truth: 3
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_575.jpg
+pred_level_id: [0 3 3 3]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_585.jpg
+pred_level_id: [3 3 3 3 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 3, 3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_596.jpg
+pred_level_id: [0 0 2 0 0]
+pred_level_without_zeroes: [2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_605.jpg
+pred_level_id: [0 5 5 5 0 3 0]
+pred_level_without_zeroes: [5, 5, 5, 3]
+ground truth: 5
+pred after mean: 4.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_608.jpg
+pred_level_id: [0 0 3 3 0 0 3]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_616.jpg
+pred_level_id: [0 0]
+pred_level_without_zeroes: [0]
+ground truth: 1
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_620.jpg
+pred_level_id: [0 4 4 0]
+pred_level_without_zeroes: [4, 4]
+ground truth: 5
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_623.jpg
+pred_level_id: [0 0 5 0]
+pred_level_without_zeroes: [5]
+ground truth: 5
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_629.jpg
+pred_level_id: [0 3 4 3 3 3]
+pred_level_without_zeroes: [3, 4, 3, 3, 3]
+ground truth: 4
+pred after mean: 3.2
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_635.jpg
+pred_level_id: [1 0 0 0 0 0]
+pred_level_without_zeroes: [1]
+ground truth: 1
+pred after mean: 1.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_640.jpg
+pred_level_id: [0 3 3 1 0 4]
+pred_level_without_zeroes: [3, 3, 1, 4]
+ground truth: 3
+pred after mean: 2.75
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_641.jpg
+pred_level_id: [0 2 0]
+pred_level_without_zeroes: [2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_644.jpg
+pred_level_id: [3 0 0 0 4]
+pred_level_without_zeroes: [3, 4]
+ground truth: 3
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_65.jpg
+pred_level_id: [0 3 3 3 3]
+pred_level_without_zeroes: [3, 3, 3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_669.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 2
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_672.jpg
+pred_level_id: [0 0 4 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [4]
+ground truth: 5
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_676.jpg
+pred_level_id: [0 3 1]
+pred_level_without_zeroes: [3, 1]
+ground truth: 4
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_696.jpg
+pred_level_id: [3 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_707.jpg
+pred_level_id: [0 0 0 0 5 0 6 0 0]
+pred_level_without_zeroes: [5, 6]
+ground truth: 6
+pred after mean: 5.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_709.jpg
+pred_level_id: [4 0 4 0 4 5 4 0]
+pred_level_without_zeroes: [4, 4, 4, 5, 4]
+ground truth: 5
+pred after mean: 4.2
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_711.jpg
+pred_level_id: [0 3 4 4 0 4]
+pred_level_without_zeroes: [3, 4, 4, 4]
+ground truth: 3
+pred after mean: 3.75
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_727.jpg
+pred_level_id: [0 2 2 3 0 2 0 2 2]
+pred_level_without_zeroes: [2, 2, 3, 2, 2, 2]
+ground truth: 2
+pred after mean: 2.1666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_732.jpg
+pred_level_id: [2 0 3 2 0 1 3 0 0]
+pred_level_without_zeroes: [2, 3, 2, 1, 3]
+ground truth: 3
+pred after mean: 2.2
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_74.jpg
+pred_level_id: [4 0 2 2]
+pred_level_without_zeroes: [4, 2, 2]
+ground truth: 2
+pred after mean: 2.6666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_743.jpg
+pred_level_id: [1 2 2 0]
+pred_level_without_zeroes: [1, 2, 2]
+ground truth: 4
+pred after mean: 1.6666666666666667
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_750.jpg
+pred_level_id: [0 0 0 2 2 2]
+pred_level_without_zeroes: [2, 2, 2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_758.jpg
+pred_level_id: [0 3 0 2 0 0 0 0 0 3 0 4 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 2, 3, 4]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_759.jpg
+pred_level_id: [3 0 0 3 3 3 3 0 0 3 0]
+pred_level_without_zeroes: [3, 3, 3, 3, 3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_767.jpg
+pred_level_id: [0 2 5]
+pred_level_without_zeroes: [2, 5]
+ground truth: 5
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_776.jpg
+pred_level_id: [0 3 0 3 0 3]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_780.jpg
+pred_level_id: [3 3 0 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [3, 3, 1, 2]
+ground truth: 3
+pred after mean: 2.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_795.jpg
+pred_level_id: [3 1 1 3 0 0 0 1 0 2]
+pred_level_without_zeroes: [3, 1, 1, 3, 1, 2]
+ground truth: 2
+pred after mean: 1.8333333333333333
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_801.jpg
+pred_level_id: [0 3]
+pred_level_without_zeroes: [3]
+ground truth: 5
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_810.jpg
+pred_level_id: [3 2 0 0 0 3 4 3 0 0]
+pred_level_without_zeroes: [3, 2, 3, 4, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_824.jpg
+pred_level_id: [0 6 0 6]
+pred_level_without_zeroes: [6, 6]
+ground truth: 7
+pred after mean: 6.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_826.jpg
+pred_level_id: [0 3 0 2 0 2 0 2 0]
+pred_level_without_zeroes: [3, 2, 2, 2]
+ground truth: 3
+pred after mean: 2.25
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_832.jpg
+pred_level_id: [2 0 0]
+pred_level_without_zeroes: [2]
+ground truth: 3
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_837.jpg
+pred_level_id: [0 3 4 3]
+pred_level_without_zeroes: [3, 4, 3]
+ground truth: 5
+pred after mean: 3.3333333333333335
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_839.jpg
+pred_level_id: [0 0 0 2 3 4]
+pred_level_without_zeroes: [2, 3, 4]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_840.jpg
+pred_level_id: [4 0 0]
+pred_level_without_zeroes: [4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_865.jpg
+pred_level_id: [2 0 0 2 0 0 0]
+pred_level_without_zeroes: [2, 2]
+ground truth: 2
+pred after mean: 2.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_872.jpg
+pred_level_id: [0 5 6 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [5, 6]
+ground truth: 4
+pred after mean: 5.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_873.jpg
+pred_level_id: [0 0 0 0 0 5 0]
+pred_level_without_zeroes: [5]
+ground truth: 1
+pred after mean: 5.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_878.jpg
+pred_level_id: [0 4 0 2 0 0 0 0 0]
+pred_level_without_zeroes: [4, 2]
+ground truth: 4
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_880.jpg
+pred_level_id: [0 0 0 0 0 2 3 0 0]
+pred_level_without_zeroes: [2, 3]
+ground truth: 2
+pred after mean: 2.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_881.jpg
+pred_level_id: [0 2 3 0 0]
+pred_level_without_zeroes: [2, 3]
+ground truth: 3
+pred after mean: 2.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_887.jpg
+pred_level_id: [0 0 3 3 4 4 0 0]
+pred_level_without_zeroes: [3, 3, 4, 4]
+ground truth: 5
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_888.jpg
+pred_level_id: [0 4 3 3 4]
+pred_level_without_zeroes: [4, 3, 3, 4]
+ground truth: 6
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_891.jpg
+pred_level_id: [0 0 0 0 8 0 0]
+pred_level_without_zeroes: [8]
+ground truth: 9
+pred after mean: 8.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_895.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 6
+pred after mean: 0.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_899.jpg
+pred_level_id: [3 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 10
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_903.jpg
+pred_level_id: [0 5 5 3]
+pred_level_without_zeroes: [5, 5, 3]
+ground truth: 3
+pred after mean: 4.333333333333333
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_916.jpg
+pred_level_id: [0 0 0 0 4 0 3 3 0 0 0 0 0 0]
+pred_level_without_zeroes: [4, 3, 3]
+ground truth: 4
+pred after mean: 3.3333333333333335
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_919.jpg
+pred_level_id: [0 3 0 5 5 0]
+pred_level_without_zeroes: [3, 5, 5]
+ground truth: 3
+pred after mean: 4.333333333333333
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_929.jpg
+pred_level_id: [3 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_940.jpg
+pred_level_id: [0 3 0 3 0 0 5]
+pred_level_without_zeroes: [3, 3, 5]
+ground truth: 3
+pred after mean: 3.6666666666666665
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_955.jpg
+pred_level_id: [3 0 3 0 0 0 3]
+pred_level_without_zeroes: [3, 3, 3]
+ground truth: 5
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_956.jpg
+pred_level_id: [0 0 3 2 5 0]
+pred_level_without_zeroes: [3, 2, 5]
+ground truth: 3
+pred after mean: 3.3333333333333335
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_963.jpg
+pred_level_id: [3 0 4 0]
+pred_level_without_zeroes: [3, 4]
+ground truth: 2
+pred after mean: 3.5
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_972.jpg
+pred_level_id: [5 0 3 4]
+pred_level_without_zeroes: [5, 3, 4]
+ground truth: 4
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_976.jpg
+pred_level_id: [0 4 3 0 5]
+pred_level_without_zeroes: [4, 3, 5]
+ground truth: 5
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_981.jpg
+pred_level_id: [5 0 3 0 0 0]
+pred_level_without_zeroes: [5, 3]
+ground truth: 5
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_982.jpg
+pred_level_id: [0 2 5 3 5 0 5 0 5 2 0 0 5 0 0]
+pred_level_without_zeroes: [2, 5, 3, 5, 5, 5, 2, 5]
+ground truth: 5
+pred after mean: 4.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_983.jpg
+pred_level_id: [0 2 5 0 7 5 7 0 0]
+pred_level_without_zeroes: [2, 5, 7, 5, 7]
+ground truth: 7
+pred after mean: 5.2
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_987.jpg
+pred_level_id: [0 0 3 0 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_988.jpg
+pred_level_id: [3 0 3 0]
+pred_level_without_zeroes: [3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_993.jpg
+pred_level_id: [3 0 0]
+pred_level_without_zeroes: [3]
+ground truth: 2
+pred after mean: 3.0
+/scratch/pchaudha/Images/After cleaning/dataset/FloodImages_newname/Flood_999.jpg
+pred_level_id: [0 2 0 0 4 3 3 0 3 0 3 0 0]
+pred_level_without_zeroes: [2, 4, 3, 3, 3, 3]
+ground truth: 3
+pred after mean: 3.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/-4VHR0_p6lfAJ3Id2RXozg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/-ZMp-jerhSLoh1wsHUd6EQ.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/-dAOMfHl0E3yJRnok3UrWw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/0WtnR1EYMW5YhTzb7i-Ggg.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/1YjCK0SG4qhv8KY0-nuRbw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/1qJmNJLFoHG9iOt3UImZeA.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/2OWWW6-gfAuHXQnbjF2ibg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/2XiTnudcI6UyedUs4dwEDQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/2eipfatrXp3SeFPFGmhnLQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/2gLRdpU0HWZRxMywQMopjw.jpg
+pred_level_id: [0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/4k3cqXZNBWMee-B4uC06gg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/57ROFdTxrsiNWEsUwCPpeA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/5IO0_gHz98UxyOGjiUGPqA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/5W22B7wNjDsqkdIyVOCkYw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/6K5RwVf4DJG6MVCqM4_OZA.jpg
+pred_level_id: [0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/7BTeQI902vbTnfpgVbGGng.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/7gYygne_kXxoLHg7I8dYuA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/7hyE5fSuPAD_H5nREI5PBQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/82mt0Ytrr1hvH_iyTzskzw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/8hvUJYqHKkehjR50Zkh-fg.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/94WIiQAWj6XvwUbHtP1oxQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/9axgZVdC3BaD4AjkT5fQAQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/AFxtVZWsH26CsOCZaV_4rg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/AGFqTCgPhu-BB6k3oXhdQA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Aq6RaMtY-m4HQqoAlaodPQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/BJzinZ3qDsB7IubgH759LA.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/BSYM17AVAJB7tthJCbuumA.jpg
+pred_level_id: [0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/BUYK9_QOXBmWwn8UbSt0XQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/D9eKuGEMAfS10_NPNFU0Gw.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/ECbzIgEyzp8hY6fbB4Tp_g.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/FVBORT9Sq5m1V5VnvGnB7Q.jpg
+pred_level_id: [0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/HjCBitG-KD1n5q93IvmLiw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/IS5EJBewVil4WN8Wc6HaFQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/JAvmWYJ-cNOXSSL9OisQQw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/JMToUcm892He7AQS4Cfcrw.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/JX7sap6k0OlUmvGk3BaERA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/KGMochVRz6TOiEgILN5Iww.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/KfnRTbHJOYCF9vMxrTW7gA.jpg
+pred_level_id: [0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Lzs0yRiyHAX0XbmWnSyhoA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/NH7b-HvDfBinzWWstpGs5w.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/PaGgR0PQXGdak-BScE4UxA.jpg
+pred_level_id: [0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/RZVEcj9XmllKOH19NZTChg.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/RZkWI8BDPSU_vhz2V9a2Wg.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/RfY03oO3YW_Of5-whOv0qQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/RzX3NCZ4UZMGn2TLIGmN4A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Th00_WhLIO89BAFRttMWxg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/UCn_lXN0gr24UcMLuxINHw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Um0Ju_qxfM0haZlSbOn2oQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/VChvhDDLjPW_V_eIX0uf8A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/VTbQs5-3RsALU6WMkpjs6A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Watbs2Vyy6ed3LiSIiLvpw.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/WoaEsc2_tltvd8vsPs7Cpg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Y7r1PJXi7j34D8ddkYmTxA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/Y8V2XjH5B-72akPj_asFyQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/YBmvoaUMbwFjtjJJ8Yqe6w.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/YEa3FtkIzhycxTvSGvsdJw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/_ahwYra-74r_e0BLtu9Lfw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/bmqvhfrxVb-I1etPip2xPw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/cdofzyI2xDS_HGBilJ4jMg.jpg
+pred_level_id: [0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/e4mBk_vjLfkQi1mwUIEUtA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/e_TIF0jX54wQmE9UQ9PyiQ.jpg
+pred_level_id: [0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/emqKwu-4fymcsxnoV1PBLg.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/fAmFtQEdcFLZdLilvebzKQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/fgeT1fcn3EloDwKB8HdOwg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/fw4yQyx6FCc4vk2DF04sZQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/gdDDu7uLUg999onncv0yMg.jpg
+pred_level_id: [0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/h0Vceoxwpk1tCskBHgiuwA.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/hQFcT1Rv2PRlVL6qzJQB3g.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/hZudSBy6NQAAGKcZRCC3Iw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/i0uL514bVdTl6qumNaNmvA.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/jReA4eMhCvk4j94TaSAhNw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/jYzFghtLPmtgedmVb6k1mg.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/keHBybf848oYdinhhtKv4g.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/ki7gOJk6hymsXenMDy1oaQ.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/kn9DmoIAlRUaz4-s75pAuQ.jpg
+pred_level_id: [0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/ks6TTlZyFwKQnZF65XN13A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/lQ-SdXIQceFtnz4c-ScYfA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/l_KoQJ-fQcinvOgcd1lRXw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/laeOtWZFoFLDby_-Br4JdQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 6]
+pred_level_without_zeroes: [6]
+ground truth: 0
+pred after mean: 6.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/lndmueCWZuyAFmNGLy4pGA.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/m41YsTNKjNaU0uZkuE1fZw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/mY4uUJzTq1Z4tMSFOxf_cA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/nAPIrdS8Qfh24Ipx-jmFKg.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/nH-gC8WSKJZMmy403ipJkA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/orP1fys9dVfob60zfV5G9A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/pq_27SBU0ilpMYf2KbKZjQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/qGmhrPLRCTQOoTQc6isefw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/rAgnZG1jcHLiSl6varfAmA.jpg
+pred_level_id: [0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/ryV6w2gDe08iSocHk_D8ow.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/s1R2GmT2io21HsKj6MqPkw.jpg
+pred_level_id: [0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/sdIxQdxIPQ4CQR43NvVIKQ.jpg
+pred_level_id: [0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/tA_7qXy8UtOvRhPPiwHV5w.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/uLnc7uCSyXokoF3fCt8QCQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/uRG-LQNbz9wagd0fO40pAQ.jpg
+pred_level_id: [0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/ulWJuNoZwmOS1aIrXrOpFw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/wr_GsW1Fv6DBIcXGO986wQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/xlpaU8gXJCfDbnZvSF0q-A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/xyvlsc_jr62H4G6XgsA4FQ.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/yKqXeDsPhLZcmWsV6FB6Aw.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/ypAjJ1dGfWntuJvLjtQrpA.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+/scratch2/mapillary-vistas-dataset_public_v1.1/training/images/zozRmFEaoDetiat_j-a38A.jpg
+pred_level_id: [0 0 0 0 0 0 0 0 0 0 0]
+pred_level_without_zeroes: [0]
+ground truth: 0
+pred after mean: 0.0
+gt of all images: [ 1  4  3  4  5  2  6  4  3  7  7  2  8  4  3  2  5  4  4  6  6  2  4  1
+  4 10  6  5  3  3  2  4  6  7  5  2  8  5  5  3  2  3  3  3  7  3  1  8
+  5  6 10  3  3  6  4  3  7  3  2  6  6  3  7  5  3  3  4  4  3  8  2  4
+  8  3  4  4  4  6  5  5  6  3  4  4  4  5  3  6  4  2  2  4  5  4  7  1
+  2  5  3  3  2  5  4  6  6  8  3  7  2  6  2  1  7  2  3  3  4  5  2  5
+  2  4  4  3  4  5  4  2  4  3  4  5  6  3  3  3  3  3  6  4  1  3  3  5
+  3  2  3  2  5  3  1  5  5  4  1  3  2  3  4  2  5  4  3  6  5  3  2  3
+  2  4  2  3  4  5  4  3  2  5  3  7  3  3  5  4  4  2  4  1  4  2  3  5
+  6  9  6 10  3  4  3  3  3  5  3  2  4  5  5  5  7  3  3  2  3  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0]
+pred of all images: [2.0, 4.0, 3.0, 0.0, 3.0, 2.25, 3.5, 3.5, 3.0, 4.0, 5.222222222222222, 3.7142857142857144, 4.0, 1.0, 3.0, 3.0, 3.4, 4.5, 3.0, 5.333333333333333, 3.0, 3.0, 3.0, 3.3333333333333335, 4.0, 4.0, 0.0, 4.25, 3.0, 2.0, 2.0, 3.0, 5.0, 4.5, 3.0, 1.75, 0.0, 3.5, 4.0, 3.0, 3.0, 3.0, 2.4, 2.0, 5.333333333333333, 5.0, 0.0, 5.0, 3.25, 4.666666666666667, 6.0, 3.0, 2.0, 4.5, 4.0, 3.0, 5.25, 2.0, 0.0, 5.0, 3.25, 3.5, 0.0, 0.0, 3.0, 2.0, 3.5, 3.0, 2.0, 7.5, 0.0, 4.6, 5.75, 3.0, 3.0, 3.0, 4.0, 4.0, 0.0, 4.666666666666667, 4.5, 2.3333333333333335, 2.3333333333333335, 3.0, 4.0, 2.0, 3.0, 6.5, 0.0, 2.0, 2.0, 3.5, 4.75, 3.5, 6.0, 0.0, 2.0, 2.0, 5.0, 4.0, 3.0, 2.6666666666666665, 5.0, 3.5, 3.0, 5.333333333333333, 3.0, 6.0, 2.6666666666666665, 5.0, 3.0, 2.0, 4.5, 3.0, 3.5, 3.6666666666666665, 4.0, 4.25, 2.6666666666666665, 4.25, 4.0, 3.2, 3.0, 3.0, 4.75, 6.0, 2.0, 2.0, 3.5, 3.5, 3.2, 3.5, 9.0, 3.0, 3.0, 3.0, 3.0, 2.5, 4.428571428571429, 3.0, 2.0, 3.0, 3.0, 5.0, 3.5, 3.0, 3.0, 2.0, 4.5, 3.0, 0.0, 4.0, 5.0, 3.2, 1.0, 2.75, 2.0, 3.5, 3.0, 0.0, 4.0, 2.0, 3.0, 5.5, 4.2, 3.75, 2.1666666666666665, 2.2, 2.6666666666666665, 1.6666666666666667, 2.0, 3.0, 3.0, 3.5, 3.0, 2.25, 1.8333333333333333, 3.0, 3.0, 6.0, 2.25, 2.0, 3.3333333333333335, 3.0, 4.0, 2.0, 5.5, 5.0, 3.0, 2.5, 2.5, 3.5, 3.5, 8.0, 0.0, 3.0, 4.333333333333333, 3.3333333333333335, 4.333333333333333, 3.0, 3.6666666666666665, 3.0, 3.3333333333333335, 3.5, 4.0, 4.0, 4.0, 4.0, 5.2, 3.0, 3.0, 3.0, 3.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 6.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+RMSE loss in cms0.8404888282276818
+RMSE loss in level14.765177939540996

@@ -1,0 +1,9 @@
+New dataset, with proper ids of flood images
+and removed ids of the following images with less area
+
+['6K5RwVf4DJG6MVCqM4_OZA', '_ahwYra-74r_e0BLtu9Lfw', '6AJn0n3YlgYwFWlB_-JUjg', 'xTMjsD7m-51jzN8Vd6G0hQ', 'ZzuNNbp0dkrXKgcN2hdzDw', '_WSaINulT16wGxJObjYz1Q', 'wU0EgrfaUDhWnyXP4_7TKQ', 'Tj288HmkbgaGZrnryvi-oA', 'BUYK9_QOXBmWwn8UbSt0XQ', 'ARFc1V96JK7_vJO3GjXZYg', 'WZWid7RUtZIrpqkeX6vA4w', '1UeFbvMwir_4ev2g4l0eYQ', 'EcCrc-hnfzTEAcn02j3VAA', '1tlYbQK6vNJlfIGbZu7ZLw', 'Akns91f-PPxvqXYitVXIlQ','wO1V3zKD9KtnDFQp-wmM9Q']
+
+annoation_ids
+[367, 473, 1629, 1630, 1631, 1723, 2421, 2482, 2745, 2746, 3307, 5616, 6082, 6753, 6874, 6878, 10915, 11046, 10797]
+
+latest dataset
